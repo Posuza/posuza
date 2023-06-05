@@ -1,5 +1,5 @@
 
-<img alt="looping" width="100%" src="https://i.pinimg.com/originals/cb/0c/60/cb0c6073f0f276f9ce7382a41b0427de.gif">
+<img alt="looping" width="100%" height="50" src="https://i.pinimg.com/originals/cb/0c/60/cb0c6073f0f276f9ce7382a41b0427de.gif">
 
 <h1 align="center"><img alt="coding" width="100" src="https://i.pinimg.com/originals/69/61/14/696114553c9f4d3d9308d5e1190f17c1.gif"> , I'm Peter Harvey</h1>
 <h3 align="center">A passionate software developer from Myanmar</h3>
