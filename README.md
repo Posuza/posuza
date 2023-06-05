@@ -3,9 +3,9 @@
 <h1 align="center"><img alt="coding" width="250" height="150" src="https://media2.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif?cid=6c09b952vjitglkq3y28d0e2e6k6sd8tl3u1kaqojvqdyiwz&ep=v1_stickers_related&rid=giphy.gif&ct=ts"> , I'm Peter Harvey</h1>
 <h3 align="center">A passionate software developer from Myanmar</h3>
 
-<img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
+<img align="right" alt="coding" width="100" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=posuza&label=Profile%20views&color=0e75b6&style=flat" alt="posuza" /> </p>
+<p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=posuza&label=Profile%20views&color=0e75b6&style=flat" alt="posuza" /> </p>
 
 - 👯 I’m looking to collaborate on **INGO-Organizations**
 
