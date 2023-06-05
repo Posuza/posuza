@@ -1,5 +1,5 @@
 
-<h1 align="center"><img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="> , I'm Peter Harvey</h1>
+<h1 align="center"><img align="right" alt="coding" width="400" src="<img align="center" alt="coding" width="400" src="> , I'm Peter Harvey</h1>
 <h3 align="center">A passionate software developer from Myanmar</h3>
 
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
