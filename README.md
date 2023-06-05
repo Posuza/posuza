@@ -1,5 +1,4 @@
 <img align="center" height="300" alt="coding" width="100%" src="https://windowscustomization.com/wp-content/uploads/2018/12/Neon-Tanjim.gif">
-<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/9Y5ul0k4mrrDGRBXf9/giphy.gif?cid=6c09b952d0ebccfde36b4d101f375c22b4afcb0812e2737d&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">
 <img align="left" alt="coding" width="300" src="https://i.pinimg.com/originals/d7/7b/ce/d77bce75b53ed81f656be3f4249b372b.gif">
 <h1 align="center"><img alt="coding" width="250" height="150" src="https://media2.giphy.com/media/kDkUNHvbB6vjqeWSyp/giphy.gif?cid=6c09b952vjitglkq3y28d0e2e6k6sd8tl3u1kaqojvqdyiwz&ep=v1_stickers_related&rid=giphy.gif&ct=ts"> , I'm Peter Harvey</h1>
 <h3 align="center">A passionate software developer from Myanmar</h3>
