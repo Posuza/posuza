@@ -106,7 +106,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
       </a>
       <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+        <img src="hhttps://cdn.worldvectorlogo.com/logos/unity-logo.svg" alt="unity" width="40" height="40"/> 
       </a>
     </p>
     
@@ -141,10 +141,13 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
       </a> 
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
       </a> 
       <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgffx7PNNL4MF2w-iSDijYfnmDMSvuo_C4jA&s" alt="xd" width="40" height="40"/> 
       </a> 
     </p>
 
