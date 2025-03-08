@@ -1,7 +1,9 @@
-<div style="position: relative;">
-  <img align="center" height="200" alt="coding" width="100%" src="https://windowscustomization.com/wp-content/uploads/2018/12/Neon-Tanjim.gif">
-  <div style="position: absolute; top: 10px; left: 10px; color: white; padding: 10px; font-weight: bold;">
-     <h1 align="center"> I'm Peter Harvey</h1>
+
+<img align="center" height="200" alt="coding" width="100%" src="https://windowscustomization.com/wp-content/uploads/2018/12/Neon-Tanjim.gif">
+<map name="imagemap">
+    <area shape="rect" coords="50,50,150,150" alt="Text Area" title="I'm Peter Harvey">
+</map>
+<!--      <h1 align="center"> I'm Peter Harvey</h1> -->
   </div>
 </div>
 <h3 align="center">A passionate software developer from Myanmar</h3>
