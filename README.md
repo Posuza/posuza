@@ -167,29 +167,4 @@
 # My LeetCode Progress
 
 ## Statistics
-<!-- You can update these numbers manually or use GitHub Actions to automate -->
-- **Total Problems Solved:** XX
-- **Easy:** XX
-- **Medium:** XX
-- **Hard:** XX
-
-## Recent Problems
-<!-- You can update this section manually with your most recent solves -->
-| # | Title | Difficulty | Solution |
-|---|-------|------------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](link-to-your-solution) |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [Solution](link-to-your-solution) |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](link-to-your-solution) |
-
-## Progress Chart
-<!-- You can use shields.io to create badges -->
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
-
-## Automation Options
-
-### Option 1: Using LeetCode Badges
-You can use shields.io to create badges for your LeetCode profile:
-
-```markdown
-![LeetCode user](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FYOUR_LEETCODE_USERNAME&logo=leetcode&logoColor=yellow)
-```
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
