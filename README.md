@@ -1,4 +1,4 @@
-<img align="center" height="300" alt="coding" width="100%" src="https://windowscustomization.com/wp-content/uploads/2018/12/Neon-Tanjim.gif">
+<img align="center" height="200" alt="coding" width="100%" src="https://windowscustomization.com/wp-content/uploads/2018/12/Neon-Tanjim.gif">
 <h1 align="center"> I'm Peter Harvey</h1>
 <h3 align="center">A passionate software developer from Myanmar</h3>
 <br>
