@@ -1,26 +1,22 @@
 
 <img align="center" height="200" alt="coding" width="100%" src="https://windowscustomization.com/wp-content/uploads/2018/12/Neon-Tanjim.gif">
-<h1 align="center"> I'm Peter Harvey</h1>
+<h1 align="center"> I'm Peter(PaingHeinThetMon</h1>
 
 <h3 align="center">A passionate software developer from Myanmar</h3>
 <br>
 
 <p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=posuza&label=Profile%20views&color=0e75b6&style=flat" alt="posuza" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=posuza&show_icons=true&locale=en" alt="posuza" /></p>
-<p><img align="center" alt="coding" width="70" src="https://babelux.net/images/who-we-are.gif"> I’m looking to collaborate on **INGO,NGO-Organizations,start-up** </p> 
-<p> <img align="center" alt="coding" width="70" src="https://media1.giphy.com/media/zVpyD7t0vYdfXsq4Hl/giphy.gif?cid=6c09b95211c21abab1f554454c6fdd2be877f27cd3bb8c0e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">  Ask me about **forn-end,back-end knowledges** </p>
-<p> <img align="center" alt="coding" width="70" src="https://cliply.co/wp-content/uploads/2020/04/392004110_MAILBOX_3D_400px.gif"> How to reach me posu0009@gmail.com </p>
-<p> <img align="center" alt="coding" width="70" src="https://media0.giphy.com/media/NQ1EW0QVwuHCTElgYA/giphy.gif?cid=6c09b95273ca943d856d10d891865386b30d14a95798a7d1&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">  Know about my experiences <a href="" target="blank"><img align="center" src="https://media1.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b952fe2f49e7b7f53ad9e2225b08e707d752f27cfe20&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s" alt="@po-hi" width="100" /></a> </p>
-<p> <img align="center" alt="coding" width="70" src="https://media2.giphy.com/media/jqkipjwTMxNRgCKzad/giphy.gif?cid=6c09b952b2ab44a9e7ee1a8f603a9b1a6d99b5347e49e066&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">  Fun fact **I am friendly & talkative** </p>
+<br>
+<p><img align="center" alt="coding" width="50" src="https://img.freepik.com/premium-vector/find-job-logo-template-design_20029-959.jpg"> I’m looking to collaborate on **INGO,NGO-Organizations,start-up** </p> 
+<p> <img align="center" alt="coding" width="50" src="https://media1.giphy.com/media/zVpyD7t0vYdfXsq4Hl/giphy.gif?cid=6c09b95211c21abab1f554454c6fdd2be877f27cd3bb8c0e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">  Ask me about **forn-end,back-end knowledges** </p>
+<p> <img align="center" alt="coding" width="50" src="https://cliply.co/wp-content/uploads/2020/04/392004110_MAILBOX_3D_400px.gif"> How to reach me posu0009@gmail.com </p>
+<p> <img align="center" alt="coding" width="50" src="https://media0.giphy.com/media/NQ1EW0QVwuHCTElgYA/giphy.gif?cid=6c09b95273ca943d856d10d891865386b30d14a95798a7d1&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">  Know about my experiences <a href="" target="blank"> <img align="center" src="https://media1.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b952fe2f49e7b7f53ad9e2225b08e707d752f27cfe20&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s" alt="@po-hi" width="100" /></a> </p>
+<p> <img align="center" alt="coding" width="50" src="https://media2.giphy.com/media/jqkipjwTMxNRgCKzad/giphy.gif?cid=6c09b952b2ab44a9e7ee1a8f603a9b1a6d99b5347e49e066&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">  Fun fact **I am friendly & talkative** </p>
 
   
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@po-hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@po-hi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peter harvey(paing hein thet mon)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter harvey(paing hein thet mon)" height="30" width="40" /></a>
-<a href="https://fb.com/peter harvey(paing hein thet mon)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peter harvey(paing hein thet mon)" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">   Languages and Tools:</h3>
 <h4 align="left">   FrondEnd:</h4>
@@ -154,9 +150,16 @@
 
 
 <br>
+<br>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=posuza&show_icons=true&locale=en&layout=compact" alt="posuza" width="100%" /></p>
+<p >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=posuza&show_icons=true&locale=en&layout=compact" alt="posuza"  width="41.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=posuza&" alt="posuza" width="57.5%" />
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=posuza&" alt="posuza"  /></p>
-
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/@po-hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@po-hi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peter harvey(paing hein thet mon)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter harvey(paing hein thet mon)" height="30" width="40" /></a>
+<a href="https://fb.com/peter harvey(paing hein thet mon)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peter harvey(paing hein thet mon)" height="30" width="40" /></a>
+</p>
