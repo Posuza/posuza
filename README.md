@@ -157,6 +157,62 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=posuza&" alt="posuza" width="57.6%" />
 </p>
 
+<br>
+<br>
+
+
+<h1 align="center">
+  🏆 My LeetCode Journey
+</h1>
+
+### - Coding Progress Tracker
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Current Goals</h3>
+      <ul>
+        <li>Solve 200+ problems by end of year</li>
+        <li>Master Dynamic Programming concepts</li>
+        <li>Complete all Top Interview Questions</li>
+      </ul>
+      <h3>💪 Areas of Focus</h3>
+      <ul>
+        <li>Graph Algorithms</li>
+        <li>Dynamic Programming</li>
+        <li>System Design</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://leetcard.jacoblin.cool/posu0009?ext=heatmap" alt="LeetCode Stats">
+    </td>
+  </tr>
+</table>
+
+### -  My Problem-Solving Journey
+
+ - I'm committed to improving my algorithmic thinking and problem-solving skills through consistent practice. The heatmap above shows my dedication to daily coding challenges.
+
+
+#### 📈 Weekly Progress
+| Week | Problems Solved | New Concepts Learned |
+|------|-----------------|----------------------|
+| Week 1 | 5 | Binary Search, Two Pointers |
+| Week 2 | 7 | BFS, DFS |
+| Week 3 | 6 | Sliding Window |
+
+---
+
+<div align="center">
+  
+#### "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+
+</div>
+
+
+<br>
+<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/@po-hi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@po-hi" height="30" width="40" /></a>
@@ -164,7 +220,6 @@
 <a href="https://fb.com/peter harvey(paing hein thet mon)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peter harvey(paing hein thet mon)" height="30" width="40" /></a>
 </p>
 
-# My LeetCode Progress
+<br>
+<br>
 
-## Statistics
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
