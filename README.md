@@ -1,5 +1,5 @@
 <img align="center" height="300" alt="coding" width="100%" src="https://windowscustomization.com/wp-content/uploads/2018/12/Neon-Tanjim.gif">
-<h1 align="center"> , I'm Peter Harvey</h1>
+<h1 align="center"> I'm Peter Harvey</h1>
 <h3 align="center">A passionate software developer from Myanmar</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
