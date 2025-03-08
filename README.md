@@ -4,7 +4,7 @@
 <br>
 
 <p align="left"> <img width="200" src="https://komarev.com/ghpvc/?username=posuza&label=Profile%20views&color=0e75b6&style=flat" alt="posuza" /> </p>
-- <img align="center" alt="coding" width="70" src="https://babelux.net/images/who-we-are.gif"> I’m looking to collaborate on **INGO,NGO-Organizations,start-up**
+<p>- <img align="center" alt="coding" width="70" src="https://babelux.net/images/who-we-are.gif"> I’m looking to collaborate on **INGO,NGO-Organizations,start-up** </p> 
 - <img align="center" alt="coding" width="70" src="https://media1.giphy.com/media/zVpyD7t0vYdfXsq4Hl/giphy.gif?cid=6c09b95211c21abab1f554454c6fdd2be877f27cd3bb8c0e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">  Ask me about **forn-end,back-end knowledges**
 - <img align="center" alt="coding" width="70" src="https://cliply.co/wp-content/uploads/2020/04/392004110_MAILBOX_3D_400px.gif"> How to reach me **posu0009@gmail.com**
 - <img align="center" alt="coding" width="70" src="https://media0.giphy.com/media/NQ1EW0QVwuHCTElgYA/giphy.gif?cid=6c09b95273ca943d856d10d891865386b30d14a95798a7d1&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">  Know about my experiences <a href="" target="blank"><img align="center" src="https://media1.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b952fe2f49e7b7f53ad9e2225b08e707d752f27cfe20&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s" alt="@po-hi" width="100" /></a>
