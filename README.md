@@ -5,7 +5,8 @@
 <h3 align="center">A passionate software developer from Myanmar</h3>
 <br>
 
-<p align="left"> <img width="200" src="https://komarev.com/ghpvc/?username=posuza&label=Profile%20views&color=0e75b6&style=flat" alt="posuza" /> </p>
+<p align="center"> <img width="200" src="https://komarev.com/ghpvc/?username=posuza&label=Profile%20views&color=0e75b6&style=flat" alt="posuza" /> </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=posuza&show_icons=true&locale=en" alt="posuza" /></p>
 <p><img align="center" alt="coding" width="70" src="https://babelux.net/images/who-we-are.gif"> I’m looking to collaborate on **INGO,NGO-Organizations,start-up** </p> 
 <p> <img align="center" alt="coding" width="70" src="https://media1.giphy.com/media/zVpyD7t0vYdfXsq4Hl/giphy.gif?cid=6c09b95211c21abab1f554454c6fdd2be877f27cd3bb8c0e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">  Ask me about **forn-end,back-end knowledges** </p>
 <p> <img align="center" alt="coding" width="70" src="https://cliply.co/wp-content/uploads/2020/04/392004110_MAILBOX_3D_400px.gif"> How to reach me posu0009@gmail.com </p>
@@ -106,7 +107,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
       </a>
       <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="hhttps://cdn.worldvectorlogo.com/logos/unity-logo.svg" alt="unity" width="40" height="40"/> 
+        <img src="https://cdn.worldvectorlogo.com/logos/unity-logo.svg" alt="unity" width="40" height="40"/> 
       </a>
     </p>
     
@@ -152,10 +153,10 @@
     </p>
 
 
+<br>
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=posuza&show_icons=true&locale=en&layout=compact" alt="posuza" width="100%" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=posuza&" alt="posuza"  /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=posuza&show_icons=true&locale=en&layout=compact" alt="posuza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=posuza&show_icons=true&locale=en" alt="posuza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=posuza&" alt="posuza" /></p>
